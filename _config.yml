@@ -1,0 +1,14 @@
+layout_spectrum: 0.6703044397290796
+typography_spectrum: 0.7641310547478497
+color:
+  brandStrength: 0.4418016036506742
+  lightness: 0.6428074494469911
+  saturation: 0.9318828049581498
+  rhythmicContrast: 0.7840532220434397
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: amor_luz
