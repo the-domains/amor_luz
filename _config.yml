@@ -1,4 +1,3 @@
-layout_spectrum: 0.6703044397290796
 typography_spectrum: 0.7641310547478497
 color:
   brandStrength: 0.4418016036506742
@@ -11,8 +10,10 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.6703044397290796
 name: amor_luz
 navigation:
   - name: The Great Barrier Reef's Best Hope Is a Killer Robot
     id: a0c2165c-5de0-475d-acd6-20d417c8c70e
     type: content
+title: PEACE | LOVE
